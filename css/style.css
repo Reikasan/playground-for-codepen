@@ -1,0 +1,29 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.playground {
+  height: 100vh;
+  width: 100vw;
+  background-color: aquamarine;
+  padding: 4rem;
+  color: #222;
+  font-family: Futura, Arial, Helvetica, sans-serif;
+}
+.playground h1 {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+}
+.playground .container {
+  margin: 3rem 0;
+}
+
+/*# sourceMappingURL=style.css.map */
